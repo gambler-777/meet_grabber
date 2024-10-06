@@ -49,7 +49,6 @@ document.addEventListener('DOMContentLoaded', function() { // натисканн
     
       });
     });
-
  
     function interactWithPage() {
       // Этот код будет выполняться на странице
