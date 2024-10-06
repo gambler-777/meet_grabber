@@ -1,0 +1,10 @@
+{
+    "name": {
+        "message": "Meet_grabber 1.2",
+        "description": "Name Extension description"
+    },
+    "description": {
+        "message": "Meet Grabber from Stack Overflow",
+        "description": "Des extension description"
+    }
+}
